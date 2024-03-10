@@ -2,5 +2,5 @@ DOMAIN-SUFFIX,wxdown.org
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,cnki.net
-DOMAIN-SUFFIX,www4.bing.com
+DOMAIN,www4.bing.com
 GEOIP,CN
